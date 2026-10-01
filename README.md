@@ -126,10 +126,10 @@ The application loads contacts from the CSV file when it starts and saves change
 
 ## 📚 CRUD Operations
 
-- **Create** — add a new contact
-- **Read** — show and search contacts
-- **Update** — edit an existing contact
-- **Delete** — remove a contact
+- **Create** - add a new contact
+- **Read** - show and search contacts
+- **Update** - edit an existing contact
+- **Delete** - remove a contact
 
 ## 👩‍💻 Author
 
